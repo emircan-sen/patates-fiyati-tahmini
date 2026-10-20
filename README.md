@@ -1,0 +1,1 @@
+Patates fiyatı tahmini projesi
